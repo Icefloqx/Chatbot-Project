@@ -47,7 +47,7 @@ The following are some of the models  that were used:
 
 Libraries used to evaluate models:
 
-- **PyPDF2** – Extracting text from a pdf. 
+- **PyPDFLoader** – Extracting text from a pdf. 
 - **Python dotenv** – for managing environment.
 - **LangChain** – popular and used to call in LLM so as to chain models together.
 
